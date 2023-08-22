@@ -1,0 +1,5 @@
+IP: 158.160.76.203;
+name_taski: taski-things.servebeer.com;
+name_kittygram: kittygram-task.hopto.org;
+login: 2ndsuperuser;
+password: 123456;
