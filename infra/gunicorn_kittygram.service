@@ -1,5 +1,5 @@
 [Unit]
-Description=gunicorn daemon 
+Description=gunicorn_kittygram(social network for sharing photos of your favorite pets) daemon 
 After=network.target 
 
 [Service]
